@@ -179,4 +179,5 @@ O resultado esperado é `Tudo certo: 78 verificações passaram.`
 | "Sessão expirada" ao enviar um formulário | A página ficou aberta por muito tempo, ou o login expirou | Recarregue a página e envie de novo. |
 | Acentos estranhos nos dados | Banco importado com outra codificação | Importe de novo o `database.sql`, que já define `utf8mb4`. |
 #   s i s t e m a - c o n t a b i l  
+ #   s i s t e m a - c o n t a b i l  
  
