@@ -178,3 +178,5 @@ O resultado esperado é `Tudo certo: 78 verificações passaram.`
 | Erro 500 do Apache ao abrir a raiz | `mod_rewrite` desligado | Ative o `LoadModule rewrite_module` no `httpd.conf` (o padrão do XAMPP já vem ativo). |
 | "Sessão expirada" ao enviar um formulário | A página ficou aberta por muito tempo, ou o login expirou | Recarregue a página e envie de novo. |
 | Acentos estranhos nos dados | Banco importado com outra codificação | Importe de novo o `database.sql`, que já define `utf8mb4`. |
+#   s i s t e m a - c o n t a b i l  
+ 
